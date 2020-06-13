@@ -7,7 +7,7 @@ Feature-Engine is used throughout the course for Pre-processing steps.
 
 Below is the list of Algorithms/techniques used during my learnings:-
 
-1.	Basic Algorithms:-
+Basic Algorithms:-
 
 1.	Logistic Regression
 2.	Decision Tree
