@@ -3,6 +3,8 @@ Showcase - MS Business Analytics Coursework - UT Dallas
 
 I have used various algorithms to build models for Classification & Regression examples and projects.
 
+Feature-Engine is used throughout the course for Pre-processing steps.
+
 Below is the list of Algorithms/techniques used during my learnings:-
 
 1.	Basic Algorithms:-
