@@ -18,7 +18,7 @@ Basic Algorithms:-
 7.	Gradient Boosting
 8.	XgBoost
 
-2.	Cost Sensitive Algorithms:- 
+Cost Sensitive Algorithms:- 
 9.	Logistic Regression
 10.	Decision Trees
 11.	Support Vector Machines (optional as it may take long time to run)
@@ -28,7 +28,7 @@ Basic Algorithms:-
 15.	Bagging decision tree with under sampling
 
 
-3.	Data Sampling Algorithms:-
+Data Sampling Algorithms:-
 16.	Logistic Regression
 17.	Decision Tree
 18.	k-Nearest Neighbors
@@ -38,20 +38,21 @@ Basic Algorithms:-
 22.	XgBoost
 23.	Neural Network (scikit learn MLPClassifier)
 
-4.	Stacking Classifiers: Try to combine various models to create stacking models. Generally diverse models gives you better results. As a rule of thumb, you need one final estimator for every 7 base estimators. If you have more than 7 base estimators in your stack, then the final estimator should itself be a stacking model with more than one estimator. Combining models trained on  different data (one way to create different data set is using different pre-processing steps) can also sometimes gives better predictions. As a minimum you need to try at least three different combinations for stacking. 
+Stacking Classifiers: Try to combine various models to create stacking models. Generally diverse models gives you better results. As a rule of thumb, you need one final estimator for every 7 base estimators. If you have more than 7 base estimators in your stack, then the final estimator should itself be a stacking model with more than one estimator. Combining models trained on  different data (one way to create different data set is using different pre-processing steps) can also sometimes gives better predictions. As a minimum you need to try at least three different combinations for stacking. 
 
-2.	Try at least three things which we have not covered in the class
+Try at least three things which we have not covered in the class
 
 Students should be able to learn new things and apply them. Here is the sample of things we have not covered in class :
 
-•	Hyper parameter tuning methods other than GridSeachCV e.g. RandomSerachCV. 
-•	Saving and Uploading models (pickle and/or Joblib)
-•	Explore More Models/Libraries (some examples below)
-	Naïve Bayes
-	One Class Classification for imbalanced data (Isolation forest)
-	LDA 
-	QDA
-	GaussianProcessClassifier
-	CatBoost
-	Light GBM
+1. Hyper parameter tuning methods other than GridSeachCV e.g. RandomSerachCV. 
+2. Saving and Uploading models (pickle and/or Joblib)
+
+Explore More Models/Libraries (some examples below)
+1. Naïve Bayes
+2. One Class Classification for imbalanced data (Isolation forest)
+3. LDA 
+4. QDA
+5. GaussianProcessClassifier
+6. CatBoost
+7. Light GBM
 
